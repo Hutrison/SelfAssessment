@@ -1,7 +1,7 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types: 🖐️ used
   - Performance tuning
   - Migrations
   - Schema versioning
@@ -10,8 +10,8 @@
   - Relational databases
   - Key-value store
   - Tuple store
-  - Graph databases
-  - Object databases
+  - Graph databases: 🖐️ used
+  - Object databases: 🖐️ used
   - Column databases
   - Navigational databases
   - Hierarchical databases
@@ -22,11 +22,11 @@
   - Data manipulation language (DML)
   - Data query language (DQL)
 - Relational
-  - Entity-Relationship Diagram
+  - Entity-Relationship Diagram: 🖐️ used
   - Normal forms
-  - Indexing
-  - Primary keys
-  - Foreign keys
+  - Indexing: 🖐️ used
+  - Primary keys: 🖐️ used
+  - Foreign keys: 🖐️ used
   - Transactions
   - Views
   - Subqueries
@@ -36,10 +36,10 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
+  - `SELECT`: 🖐️ used
+  - `INSERT`: 🖐️ used
+  - `UPDATE`: 🖐️ used
+  - `DELETE`: 🖐️ used
   - `LIMIT`
   - `OFFSET`
   - `ORDER BY`
@@ -56,11 +56,11 @@
   - `LIKE`
   - `IN`
   - `BETWEEN`
-  - `CREATE TABLE`
-  - `ALTER TABLE`
+  - `CREATE TABLE`: 🖐️ used
+  - `ALTER TABLE`: 🖐️ used
   - `DROP TABLE`
-  - `PRIMARY KEY`
-  - `FOREIGN KEY`
+  - `PRIMARY KEY`: 🖐️ used
+  - `FOREIGN KEY`: 🖐️ used
   - `CHECK`
   - `DEFAULT`
   - `INDEX`
@@ -72,12 +72,12 @@
 - Engines
   - PostgreSQL
   - Oracle
-  - MySQL
+  - MySQL: 🖐️ used
   - MariaDB
   - MS SQL Server
   - Redis
   - Rabbit
-  - MongoDB
+  - MongoDB: 🖐️ used
   - Memcached
   - Riak
   - DB2
@@ -89,6 +89,6 @@
   - Business intelligence
   - Big data
   - Data analysis
-  - AI tools
-  - Cloud databases
-  - Data Visualization
+  - AI tools: 🖐️ used
+  - Cloud databases: 🖐️ used
+  - Data Visualization: 🖐️ used
