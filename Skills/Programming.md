@@ -4,16 +4,16 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm: 🖐️ used
+  - Algorithm: 🎓 known
   - Syntax: 🎓 known
   - Semantics: 🎓 known
   - Abstraction: 🎓 known
-  - Paradigm: 🖐️ used
+  - Paradigm: 🎓 known
   - Programm: 🎓 known
   - Programming paradigm: 🎓 known
   - Programming language: 🎓 known
-  - Contract: 🖐️ used
-  - Module: 🖐️ used
+  - Contract: 🎓 known
+  - Module: 🎓 known
   - Library: 🎓 known
   - Package: 🎓 known
   - Component: 🎓 known
@@ -24,7 +24,7 @@
   - Machine code: 🎓 known
   - Microcode
   - Software engineering: 🎓 known
-  - Decomposition: 🖐️ used
+  - Decomposition: 🎓 known
   - Control flow
   - Data flow
   - Code reuse
@@ -55,14 +55,14 @@
   - Assignment: 🖐️ used
   - Regular expression: 🖐️ used
   - Interface: 🖐️ used
-  - Namespaces
+  - Namespaces: 🖐️ used
   - Call stack: 🖐️ used
-  - Naming conventions
-  - Coding conventions
+  - Naming conventions: 🎓 known
+  - Coding conventions: 🎓 known
   - Camel case: 🎓 known
   - Snake case: 🎓 known
   - Kebab case: 🎓 known
-  - Trailing commas: 🎓 knownм
+  - Trailing commas: 🎓 known
   - Return early: 🖐️ used
   - Fail-fast
 - Types
@@ -72,8 +72,8 @@
   - Strong typing
   - Weak typing
   - Duck typing
-  - Static typing
-  - Dynamic typing
+  - Static typing: 🎓 known
+  - Dynamic typing: 🎓 known
   - Nominal typing
   - Structural typing
   - Explicit typing
@@ -99,11 +99,11 @@
   - Pipe: 🎓 known
   - Memoize: 🖐️ used
   - Wrapper: 🖐️ used
-  - Functor
+  - Functor: 🎓 known
   - Monad
   - Monoid
   - Generator: 👂 heard
-  - Coroutine
+  - Coroutine: 👂 heard
 - Data structures
   - Array: 🖐️ used
   - Structure: 🖐️ used
@@ -113,16 +113,16 @@
   - Object: 🖐️ used
   - Collection: 🖐️ used
   - Set: 🖐️ used
-  - Hash table: 👂 heard
-  - Linked list: 👂 heard
-  - Doubly list: 👂 heard
+  - Hash table: 🖐️ used
+  - Linked list: 🖐️ used
+  - Doubly list: 🖐️ used
   - Unrolled list: 👂 heard
-  - Circular list: 👂 heard
-  - Queue: 👂 heard
+  - Circular list: 🖐️ used
+  - Queue: 🖐️ used
   - Stack: 🖐️ used
-  - Deque: 👂 heard
-  - Tree: 👂 heard
-  - Graph: 👂 heard
+  - Deque: 🖐️ used
+  - Tree: 🖐️ used
+  - Graph: 🖐️ used
   - Iterator: 🖐️ used
   - Mutable state: 🖐️ used
   - Immutable state: 🖐️ used
@@ -167,7 +167,7 @@
   - git: 🖐️ used
   - Github: 🖐️ used
   - Docker: 🎓 known
-  - Kubernetes
+  - Kubernetes👂 heard
   - GCC
   - LLVM
 - Antipatterns
@@ -193,7 +193,7 @@
   - Too many parameters: 🖐️ used
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case: 🖐️ used
   - Temporary field: 🖐️ used
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -209,17 +209,17 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
-  - Kernel
+  - Drivers: 🖐️ used
+  - Kernel: 🎓 known
   - Ring
-  - Virtual memory
+  - Virtual memory: 🎓 known
   - File system: 🖐️ used
   - Linux: 🖐️ used
   - Unix: 🎓 known
-  - BSD
+  - BSD: 👂 heard
   - MacOS: 🎓 known
   - Windows: 🖐️ used
-  - Real-time OS
+  - Real-time OS: 👂 heard
   - Embedded OS: 🎓 known
 - Standards
   - ASCII: 🎓 known
@@ -231,7 +231,7 @@
   - Base64: 🖐️ used
   - ECMA: 🖐️ used
   - ICANN
-  - ISO
+  - ISO; : 🎓 known
   - MIME
   - OWASP
   - UTF-8: 🖐️ used

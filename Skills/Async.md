@@ -3,9 +3,9 @@
 - Theory
   - Event loop: 🖐️ used
   - try..catch: 🖐️ used
-  - Non-blocking
+  - Non-blocking: 🎓 known
   - Async I/O: 🖐️ used
-  - Thread pool
+  - Thread pool: 🎓 known
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -17,10 +17,10 @@
   - Dead locks
   - Live locks
   - Concurrent programming: 🖐️ used
-  - Parallel programming
+  - Parallel programming: 🖐️ used
   - Actor Model: 🖐️ used
-  - Thread
-  - Process
+  - Thread: 🖐️ used
+  - Process: 🖐️ used
 - Async contracts
   - Callbacks: 🖐️ used
   - Callback-last-error-first: 🖐️ used
@@ -30,16 +30,16 @@
   - Future
   - Deferred
   - Sync generator: 🖐️ used
-  - Async Generator
-  - Async Iterator
+  - Async Generator: 👂 heard
+  - Async Iterator: 👂 heard
   - Event: 🖐️ used
-  - Coroutine
+  - Coroutine: 👂 heard
   - Goroutine
-  - Signal
-  - Stream
+  - Signal: 🖐️ used
+  - Stream: 🖐️ used
   - Chain of responsibility: 🖐️ used
   - Middleware: 🖐️ used
-  - Locks
+  - Locks: 🖐️ used
 - Async adapters and utils
   - callbackify: 🖐️ used
   - promisify: 🖐️ used
@@ -52,10 +52,10 @@
   - Readable
   - Writable
   - Transform
-  - Async Pool
-  - Async Queue
+  - Async Pool: 🎓 known
+  - Async Queue: 🖐️ used
   - Async Collector
-  - Semaphore
+  - Semaphore: 🖐️ used
   - Mutex: 🖐️ used
   - Spin Lock
 - JavaScript & Node.js specific
@@ -66,11 +66,11 @@
   - AbortSignal: 🖐️ used
   - Promise unhandled rejection: 🖐️ used
   - Promise double resolve: 🖐️ used
-  - Atomics
+  - Atomics: 🖐️ used
   - High resolution clock
   - Callback hell: 🖐️ used
   - Promise hell: 🖐️ used
-  - ref() and unref()
+  - ref() and unref(): 👂 heard
   - Error handling in async code: 🖐️ used
   - Better stack traces with return await: 🖐️ used
   - JSON streaming serialization: 🖐️ used
@@ -83,7 +83,7 @@
   - Promise.allSettled: 🎓 known
   - Promise.race: 🎓 known
   - Promise.any: 🎓 known
-  - Web Locks API
+  - Web Locks API: 👂 heard
   - IPC
   - Channel API
   - Revealing constructor

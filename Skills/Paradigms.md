@@ -6,13 +6,13 @@
   - Structured programming: 👂 heard
   - Non-structured programming: 👂 heard
   - Functional programming: 🖐️ used
-  - Prototype-based programming: 👂 heard
+  - Prototype-based programming 🖐️ used
   - Object-oriented programming: 🖐️ used
-  - Object-based programming: 👂 heard
+  - Object-based programming 🖐️ used
   - Generic programming
   - Concurrent computing
   - Asynchronous programming: 🖐️ used
-  - Parallel programming
+  - Parallel programming 🖐️ used
   - Reactive programming: 🖐️ used
   - Functional-reactive (FRP): 🖐️ used
   - Automata-based programming
@@ -33,20 +33,20 @@
   - Method: 🖐️ used
   - Async method: 🖐️ used
   - Getters, Setters: 🖐️ used
-  - Public fields: 🎓 known
-  - Private fields: 🎓 known
+  - Public fields 🖐️ used
+  - Private fields 🖐️ used
   - Field declarations: 🖐️ used
   - Inheritance: 🖐️ used
   - Parent class: 🖐️ used
   - Polymorphism: 🖐️ used
-  - Abstract class: 🎓 known
-  - Interface: 🎓 known
+  - Abstract class 🖐️ used
+  - Interface 🖐️ used
   - Encapsulation: 🖐️ used
-  - Hidden class
-  - Object form
+  - Hidden class: 👂 heard
+  - Object form: 👂 heard
   - Instance: 🖐️ used
   - Introspection
-  - Reflection
+  - Reflection: 👂 heard
   - The diamond problem
 - GRASP
   - Information expert
@@ -58,13 +58,13 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP)
-  - Open–closed principle (OCP)
-  - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP)
+  - Single-responsibility principle (SRP): 🎓 known
+  - Open–closed principle (OCP): 🎓 known
+  - Liskov substitution principle (LSP): 🎓 known
+  - Interface segregation principle (ISP): 🎓 known
+  - Dependency inversion principle (DIP): 🎓 known
 - Patterns
-  - Singleton: 👂 heard
+  - Singleton: 🖐️ used
   - Factory Method
   - Abstract Factory
   - Adapter: 👂 heard
@@ -72,11 +72,11 @@
   - Strategy: 👂 heard
   - Facade
   - Proxy: 👂 heard
-  - Chain of Responsibility
+  - Chain of Responsibility: 🖐️ used
   - Command
-  - Iterator
-  - State: 👂 heard
-  - Bridge
+  - Iterator: 🖐️ used
+  - State: 🖐️ used
+  - Bridge: 👂 heard
   - Builder: 👂 heard
   - Prototype: 👂 heard
   - Composite: 👂 heard
@@ -88,4 +88,4 @@
   - Visitor: 👂 heard
   - Reactor
   - Active object
-  - Delegation
+  - Delegation: 🖐️ used

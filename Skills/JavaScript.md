@@ -5,10 +5,10 @@
   - `Function`: 🖐️ used
   - `Boolean`: 🖐️ used
   - `Number`: 🖐️ used
-  - `BigInt`: 👂 heard
+  - `BigInt`: 🖐️ used
   - `String`: 🖐️ used
   - `Symbol`: 🎓 known
-  - `Infinity`
+  - `Infinity`: 🎓 known
   - `NaN`: 🖐️ used
   - `undefined`: 🖐️ used
   - `null`: 🖐️ used
@@ -18,14 +18,14 @@
   - `...rest`: 🖐️ used
   - `typeof`: 🖐️ used
   - Destructuring: 🖐️ used
-  - Generators: 👂 heard
-  - Iterators: 👂 heard
+  - Generators: 🖐️ used
+  - Iterators: 🖐️ used
   - Async generator: 👂 heard
   - Async iterator: 👂 heard
   - Chaining: 🖐️ used
-  - Optional chaining
+  - Optional chaining: 🖐️ used
   - IIFE: 🖐️ used
-  - Async IIFE
+  - Async IIFE: 🖐️ used
   - `global`: 🖐️ used
   - `globalThis`: 👂 heard
   - `window`: 🖐️ used
@@ -38,20 +38,20 @@
   - Bitwise operators: 🖐️ used
   - Ternary operator: 🖐️ used
   - `void`: 🖐️ used
-  - `yield`: 👂 heard
+  - `yield`: 🖐️ used
   - `await`: 🖐️ used
   - Template literal
   - Strict mode: 🖐️ used
-  - Hoisting
+  - Hoisting: 🖐️ used
   - `delete`: 🎓 known
   - `in`: 🖐️ used
   - `super`: 🖐️ used
   - `eval`: 🖐️ used
   - `static`: 🖐️ used
   - `Number.parseInt`: 🖐️ used
-  - `Number.parseFloat`
+  - `Number.parseFloat`: 🖐️ used
   - Property descriptors: 🖐️ used
-  - Sealing properties
+  - Sealing properties: 👂 heard
   - Freezing properties: 🖐️ used
   - Computed properties: 🖐️ used
   - Instance class fields: 🖐️ used
@@ -104,8 +104,8 @@
   - `Date`: 🖐️ used
   - `Math`: 🖐️ used
   - `Reflect`
-  - `Error`
-  - `Atomics`
+  - `Error`: 🖐️ used
+  - `Atomics`: 🎓 known
   - `JSON`: 🖐️ used
   - `WeakRef`
   - `FinalizationRegistry`
@@ -119,4 +119,4 @@
   - npm: 🖐️ used
   - prettier: 🖐️ used
   - MDN: 🖐️ used
-  - TC39
+  - TC39: 👂 heard
