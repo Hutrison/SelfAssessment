@@ -30,7 +30,7 @@
   - Multilayer approach: 🖐️ used
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming
+  - Metaprogramming: 👂 heard
   - Inversion of control (IoC): 🖐️ used
   - Dependency injection (DI): 🖐️ used
   - Clean architecture: 🖐️ used
@@ -39,7 +39,7 @@
   - Message brocker
   - Agent
   - Service locator
-  - Message Queue (MQ)
+  - Message Queue (MQ): 👂 heard
   - CQRS
   - Event sourcing
   - E-R data modeling
@@ -47,8 +47,8 @@
   - IDEF1X
   - UML: 🖐️ used
   - Work breakdown structure
-  - Budget estimation
-  - Distributed systems
+  - Budget estimation: 🎓 known
+  - Distributed systems: 🎓 known
   - High-intensive computing
   - Load balancing: 🖐️ used
   - Gateways: 🖐️ used
