@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-455&nbsp;/&nbsp;624&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/Hutrison/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-486&nbsp;/&nbsp;700&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/Hutrison/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-455&nbsp;/&nbsp;624&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/Hutrison/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-486&nbsp;/&nbsp;700&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/Hutrison/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/Hutrison/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-455&nbsp;/&nbsp;624&nbsp;/&nbsp;731-009933?style=flat-square"></a>
+<a href="https://github.com/Hutrison/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-486&nbsp;/&nbsp;700&nbsp;/&nbsp;731-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -57,10 +57,10 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; SOLID | `5` | `5` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Patterns | `16` | `25` |
 | [Architecture](/Skills/Architecture.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `0` | `22` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `0` | `36` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `14` | `22` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `8` | `36` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Solution architecture | `0` | `18` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `0` | `18` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `9` | `18` |
 
 ## [JavaScript](/Skills/JavaScript.md)
 
@@ -81,21 +81,19 @@ Total: you have `69` of `72` skills, `3` to be upgraded, and `26` above needed
 | Async iterator | 👂 heard | ⟶  | 🖐️ used |
 | `globalThis` | 👂 heard | ⟶  | 🖐️ used |
 | Template literal | 🤷 unknown | ⟶  | 🖐️ used |
-| `delete` | 🎓 known | ⟶  | 🖐️ used |
 | Sealing properties | 👂 heard | ⟶  | 🎓 known |
 | `for await` | 👂 heard | ⟶  | 🖐️ used |
 | `Reflect` | 🤷 unknown | ⟶  | 🎓 known |
 | `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
 | `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
 
-Total: you have `86` of `98` skills, `12` to be upgraded, and `23` above needed
+Total: you have `87` of `98` skills, `11` to be upgraded, and `23` above needed
 
 ## [Async](/Skills/Async.md)
 
 
 | For Node.js applied programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| `try..catch` | 🤷 unknown | ⟶  | 🖐️ used |
 | Async Generator | 👂 heard | ⟶  | 🎓 known |
 | Async Iterator | 👂 heard | ⟶  | 🎓 known |
 | EventEmitter | 🎓 known | ⟶  | 🖐️ used |
@@ -107,17 +105,13 @@ Total: you have `86` of `98` skills, `12` to be upgraded, and `23` above needed
 | `nextTick` | 👂 heard | ⟶  | 🖐️ used |
 | AsyncLocalStorage | 🤷 unknown | ⟶  | 👂 heard |
 | AsyncResource | 🤷 unknown | ⟶  | 👂 heard |
-| Promise.all | 🎓 known | ⟶  | 🖐️ used |
 | Promise.allSettled | 🎓 known | ⟶  | 🖐️ used |
-| Promise.race | 🎓 known | ⟶  | 🖐️ used |
-| Promise.any | 🎓 known | ⟶  | 🖐️ used |
 | Revealing constructor | 🤷 unknown | ⟶  | 🎓 known |
 
-Total: you have `33` of `50` skills, `17` to be upgraded, and `18` above needed
+Total: you have `37` of `50` skills, `13` to be upgraded, and `18` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| `try..catch` | 🤷 unknown | ⟶  | 🖐️ used |
 | Async Iterator | 👂 heard | ⟶  | 🎓 known |
 | EventEmitter | 🎓 known | ⟶  | 🖐️ used |
 | Readable | 🤷 unknown | ⟶  | 🎓 known |
@@ -125,17 +119,13 @@ Total: you have `33` of `50` skills, `17` to be upgraded, and `18` above needed
 | Transform | 🤷 unknown | ⟶  | 🎓 known |
 | Async Collector | 🤷 unknown | ⟶  | 🎓 known |
 | `setImmediate` | 👂 heard | ⟶  | 🖐️ used |
-| Promise.all | 🎓 known | ⟶  | 🖐️ used |
 | Promise.allSettled | 🎓 known | ⟶  | 🖐️ used |
-| Promise.race | 🎓 known | ⟶  | 🖐️ used |
-| Promise.any | 🎓 known | ⟶  | 🖐️ used |
 | Revealing constructor | 🤷 unknown | ⟶  | 👂 heard |
 
-Total: you have `24` of `37` skills, `13` to be upgraded, and `14` above needed
+Total: you have `28` of `37` skills, `9` to be upgraded, and `14` above needed
 
 | For Node.js platform/system programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| `try..catch` | 🤷 unknown | ⟶  | 🖐️ used |
 | Pattern Reactor | 🤷 unknown | ⟶  | 🎓 known |
 | CAS operations | 🤷 unknown | ⟶  | 👂 heard |
 | libuv | 🤷 unknown | ⟶  | 🎓 known |
@@ -160,16 +150,13 @@ Total: you have `24` of `37` skills, `13` to be upgraded, and `14` above needed
 | ref() and unref() | 👂 heard | ⟶  | 🖐️ used |
 | AsyncLocalStorage | 🤷 unknown | ⟶  | 🖐️ used |
 | AsyncResource | 🤷 unknown | ⟶  | 🖐️ used |
-| Promise.all | 🎓 known | ⟶  | 🖐️ used |
 | Promise.allSettled | 🎓 known | ⟶  | 🖐️ used |
-| Promise.race | 🎓 known | ⟶  | 🖐️ used |
-| Promise.any | 🎓 known | ⟶  | 🖐️ used |
 | Web Locks API | 👂 heard | ⟶  | 🎓 known |
 | IPC | 🤷 unknown | ⟶  | 🎓 known |
 | Channel API | 🤷 unknown | ⟶  | 🎓 known |
 | Revealing constructor | 🤷 unknown | ⟶  | 🖐️ used |
 
-Total: you have `42` of `75` skills, `33` to be upgraded, and `9` above needed
+Total: you have `46` of `75` skills, `29` to be upgraded, and `9` above needed
 
 ## [NodeJS](/Skills/NodeJS.md)
 
