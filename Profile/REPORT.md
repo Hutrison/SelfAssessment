@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-486&nbsp;/&nbsp;700&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/Hutrison/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-490&nbsp;/&nbsp;700&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/Hutrison/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-486&nbsp;/&nbsp;700&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/Hutrison/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-490&nbsp;/&nbsp;700&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/Hutrison/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/Hutrison/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-486&nbsp;/&nbsp;700&nbsp;/&nbsp;731-009933?style=flat-square"></a>
+<a href="https://github.com/Hutrison/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-490&nbsp;/&nbsp;700&nbsp;/&nbsp;731-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -58,7 +58,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Patterns | `16` | `25` |
 | [Architecture](/Skills/Architecture.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `14` | `22` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `8` | `36` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `12` | `36` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Solution architecture | `0` | `18` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `9` | `18` |
 
