@@ -43,7 +43,7 @@
   - Template literal
   - Strict mode: 🖐️ used
   - Hoisting: 🖐️ used
-  - `delete`: 🎓 known
+  - `delete`: 🖐️ used
   - `in`: 🖐️ used
   - `super`: 🖐️ used
   - `eval`: 🖐️ used

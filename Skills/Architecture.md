@@ -1,39 +1,39 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
+  - Modularity: 🖐️ used
+  - Components: 🖐️ used
+  - Directories: 🖐️ used
+  - GRASP: 👂 heard
+  - SOLID: 🖐️ used
+  - GoF patterns: 👂 heard
   - CQS
-  - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
+  - Leaking abstractions: 🎓 known
+  - Multiparadigm code: 🖐️ used
+  - Contract programming: 🖐️ used
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage
+  - Code coverage: 🖐️ used
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability: 🖐️ used
+  - Quality: 🖐️ used
+  - Availability: 🖐️ used
+  - Flexibility: 🖐️ used
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer
+  - Isolation between layer: 🖐️ used
   - Domain-specific language (DSL)
   - System vs applied code
-  - Multilayer approach
+  - Multilayer approach: 🖐️ used
   - Hexagonal architecture
   - Separation of concerns (SoC)
   - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
+  - Inversion of control (IoC): 🖐️ used
+  - Dependency injection (DI): 🖐️ used
+  - Clean architecture: 🖐️ used
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
@@ -45,13 +45,13 @@
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML
+  - UML: 🖐️ used
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
   - High-intensive computing
-  - Load balancing
-  - Gateways
+  - Load balancing: 🖐️ used
+  - Gateways: 🖐️ used
   - On-premises
   - IaaS
   - PaaS
@@ -80,15 +80,15 @@
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
-  - Enterprise strategy
-  - Integration with subsystems
-  - Enterprise vision
-  - Enterprise capabilities
-  - Project scope
+  - Understanding business needs: 🎓 known
+  - Enterprise strategy: 🎓 known
+  - Integration with subsystems: 🖐️ used
+  - Enterprise vision: 🎓 known
+  - Enterprise capabilities: 🎓 known
+  - Project scope: 🎓 known
   - Enterprise service bus
-  - Service-oriented architecture
-  - Microservices
+  - Service-oriented architecture: 🎓 known
+  - Microservices: 🖐️ used
   - Process choreography
   - Service orchestration
   - Data warehouse
@@ -96,5 +96,5 @@
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance
+  - Quality assurance: 🖐️ used
   - Engineering Hygiene

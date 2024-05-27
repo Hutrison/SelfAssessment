@@ -2,7 +2,7 @@
 
 - Theory
   - Event loop: 🖐️ used
-  - try..catch: 🖐️ used
+  - `try..catch`: 🖐️ used
   - Non-blocking: 🎓 known
   - Async I/O: 🖐️ used
   - Thread pool: 🎓 known
@@ -79,10 +79,10 @@
 - Techniques
   - Async.js library: 🖐️ used
   - RxJS library: 🖐️ used
-  - Promise.all: 🎓 known
+  - Promise.all: 🖐️ used
   - Promise.allSettled: 🎓 known
-  - Promise.race: 🎓 known
-  - Promise.any: 🎓 known
+  - Promise.race: 🖐️ used
+  - Promise.any: 🖐️ used
   - Web Locks API: 👂 heard
   - IPC
   - Channel API
