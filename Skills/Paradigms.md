@@ -6,13 +6,13 @@
   - Structured programming: 👂 heard
   - Non-structured programming: 👂 heard
   - Functional programming: 🖐️ used
-  - Prototype-based programming 🖐️ used
+  - Prototype-based programming: 🖐️ used
   - Object-oriented programming: 🖐️ used
-  - Object-based programming 🖐️ used
+  - Object-based programming: 🖐️ used
   - Generic programming
   - Concurrent computing
   - Asynchronous programming: 🖐️ used
-  - Parallel programming 🖐️ used
+  - Parallel programming: 🖐️ used
   - Reactive programming: 🖐️ used
   - Functional-reactive (FRP): 🖐️ used
   - Automata-based programming
@@ -33,14 +33,14 @@
   - Method: 🖐️ used
   - Async method: 🖐️ used
   - Getters, Setters: 🖐️ used
-  - Public fields 🖐️ used
-  - Private fields 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
   - Field declarations: 🖐️ used
   - Inheritance: 🖐️ used
   - Parent class: 🖐️ used
   - Polymorphism: 🖐️ used
-  - Abstract class 🖐️ used
-  - Interface 🖐️ used
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
   - Encapsulation: 🖐️ used
   - Hidden class: 👂 heard
   - Object form: 👂 heard

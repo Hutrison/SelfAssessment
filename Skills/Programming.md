@@ -167,7 +167,7 @@
   - git: 🖐️ used
   - Github: 🖐️ used
   - Docker: 🎓 known
-  - Kubernetes👂 heard
+  - Kubernetes: 👂 heard
   - GCC
   - LLVM
 - Antipatterns
@@ -231,7 +231,7 @@
   - Base64: 🖐️ used
   - ECMA: 🖐️ used
   - ICANN
-  - ISO; : 🎓 known
+  - ISO;: 🎓 known
   - MIME
   - OWASP
   - UTF-8: 🖐️ used
