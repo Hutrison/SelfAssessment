@@ -3,16 +3,16 @@
 - Theory and concepts
   - Data types: 🖐️ used
   - Performance tuning
-  - Migrations
-  - Schema versioning
-  - Backup and recovery
-  - Database scalability
-  - Relational databases
+  - Migrations: 🎓 known
+  - Schema versioning: 🎓 known
+  - Backup and recovery: 🎓 known
+  - Database scalability: 🎓 known
+  - Relational databases: 🎓 known
   - Key-value store
   - Tuple store
   - Graph databases: 🖐️ used
   - Object databases: 🖐️ used
-  - Column databases
+  - Column databases: 🎓 known
   - Navigational databases
   - Hierarchical databases
   - In-memory databases
@@ -31,59 +31,59 @@
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions
+  - SQL functions: 🎓 known
   - Materialized views
-  - Replications
-  - Virtualization
+  - Replications: 🎓 known
+  - Virtualization: 🎓 known
 - SQL
   - `SELECT`: 🖐️ used
   - `INSERT`: 🖐️ used
   - `UPDATE`: 🖐️ used
   - `DELETE`: 🖐️ used
-  - `LIMIT`
-  - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
+  - `LIMIT`: 🖐️ used
+  - `OFFSET`: 🖐️ used
+  - `ORDER BY`: 🖐️ used
+  - `GROUP BY`: 🖐️ used
   - `HAVING`
-  - `EXISTS`
-  - `JOIN`
-  - `INNER JOIN`
-  - `LEFT JOIN`
-  - `RIGHT JOIN`
+  - `EXISTS`: 🖐️ used
+  - `JOIN`: 🖐️ used
+  - `INNER JOIN`: 🖐️ used
+  - `LEFT JOIN`: 🖐️ used
+  - `RIGHT JOIN`: 🖐️ used
   - `UNION`
   - `DISTINCT`
-  - `WHERE`
+  - `WHERE`: 🖐️ used
   - `LIKE`
-  - `IN`
-  - `BETWEEN`
+  - `IN`: 🖐️ used
+  - `BETWEEN`: 🖐️ used
   - `CREATE TABLE`: 🖐️ used
   - `ALTER TABLE`: 🖐️ used
-  - `DROP TABLE`
+  - `DROP TABLE`: 🖐️ used
   - `PRIMARY KEY`: 🖐️ used
   - `FOREIGN KEY`: 🖐️ used
   - `CHECK`
-  - `DEFAULT`
-  - `INDEX`
-  - `UNIQUE`
+  - `DEFAULT`: 🖐️ used
+  - `INDEX`: 🖐️ used
+  - `UNIQUE`: 🖐️ used
   - `GRANT`
   - `REVOKE`
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL
+  - PostgreSQL: 🖐️ used
   - Oracle
   - MySQL: 🖐️ used
-  - MariaDB
+  - MariaDB: 🖐️ used
   - MS SQL Server
-  - Redis
-  - Rabbit
+  - Redis: 🖐️ used
+  - Rabbit: 🖐️ used
   - MongoDB: 🖐️ used
   - Memcached
   - Riak
   - DB2
-  - SQLite
+  - SQLite: 🖐️ used
   - DynamoDB
-  - Firebase
+  - Firebase: 🖐️ used
 - Data engineering
   - Data warehousing
   - Business intelligence

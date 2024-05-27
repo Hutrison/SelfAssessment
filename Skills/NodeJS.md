@@ -2,13 +2,13 @@
 
 - Internals and concepts
   - Strong and weak sides of node.js: 🎓 known
-  - Stateful and stateless servers
-  - Nonblocking I/O and blocking code
+  - Stateful and stateless servers: 👂 heard
+  - Nonblocking I/O and blocking code: 👂 heard
   - Event loop phases: 🎓 known
   - Event loop microtasks and macrotasks: 🎓 known
   - Garbage collection: 🎓 known
   - Node.js LTS schedule: 🎓 known
-  - I/O-bound, CPU-bound, memory-bound tasks
+  - I/O-bound, CPU-bound, memory-bound tasks: 👂 heard
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
   - CommonJS modules: 🖐️ used
@@ -21,7 +21,7 @@
   - Files `package.json`, `package-lock.json`: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection: 🖐️ used
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
@@ -33,13 +33,13 @@
   - Clustering
   - Watch filesystem changes with --watch: 🖐️ used
 - Internal API
-  - Streams API
-  - Web Streams API
+  - Streams API: 👂 heard
+  - Web Streams API: 👂 heard
   - Crypto API: 🖐️ used
   - Password hashing with crypto.scrypt: 🖐️ used
   - Web Crypto API: 🖐️ used
   - File system API (sync and async): 🖐️ used
-  - Copy folder recursively
+  - Copy folder recursively: 🖐️ used
   - Worker threads
   - Performance hooks
   - Native fetch and nodejs/undici: 🖐️ used
@@ -48,16 +48,16 @@
   - AsyncResource
   - Deprecated domain API
   - Node.js single executable
-  - SharedArrayBuffer
-  - Module `node:worker_threads`
+  - SharedArrayBuffer: 🖐️ used
+  - Module `node:worker_threads`: 🖐️ used
   - Module `node:child_process`: 🖐️ used
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID: 🖐️ used
   - Module `node:url` vs `new URL`
-  - Module `node:assert`
+  - Module `node:assert`: 👂 heard
   - Internationalization
-  - Blob, File, Buffer, module `node:buffer`
+  - Blob, File, Buffer, module `node:buffer`: 🖐️ used
   - Module `node:zlib`
 - Network
   - Endpoint throttling
@@ -71,22 +71,22 @@
   - TCP/SSL: 🖐️ used
   - UDP: 🖐️ used
   - TLS: 🖐️ used
-  - Websocket
+  - Websocket: 🖐️ used
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
   - REST: 🖐️ used
   - RPC
   - Routing: 🖐️ used
-  - DoS
-  - DDoS
+  - DoS: 🎓 known
+  - DDoS: 🎓 known
   - XSS
   - Path traversal
   - CSRF
   - DNS: 🖐️ used
-  - SQL injection
+  - SQL injection: 🎓 known
   - noDelay
-  - keep-alive
+  - keep-alive: 🎓 known
   - IP sticky sessions
 - Technique and tools
   - Native test runner: 👂 heard
@@ -98,7 +98,7 @@
   - Writable
   - Transform
   - Back pressure
-  - Buffer
+  - Buffer: 🖐️ used
   - Console: 🖐️ used
   - Inspector: 🖐️ used
 - Data access
@@ -107,25 +107,25 @@
   - Active record
   - Query builder
   - Object-Relational Mapping
-  - CRUD
+  - CRUD: 🖐️ used
   - DTO
 - Error handling and debugging
   - `Error`: 🖐️ used
   - `error.cause`
   - `error.code`: 🖐️ used
   - `error.message`: 🖐️ used
-  - `error.stack`
-  - `Error.captureStackTrace`
+  - `error.stack`: 🖐️ used
+  - `Error.captureStackTrace`: 🖐️ used
   - How to avoid mixins
-  - Uncaught exceptions
+  - Uncaught exceptions: 🎓 known
   - Heap dump
   - Debugging tools: 🖐️ used
   - Flame graph
-  - Memory leaks
-  - Resource leaks
+  - Memory leaks: 🎓 known
+  - Resource leaks: 🎓 known
   - Data race
 - Integrations and bindings
-  - Native addons
+  - Native addons: 🖐️ used
   - `C` and `C++` addons
   - `Rust` addons
   - `Zig` addons
@@ -139,5 +139,5 @@
   - Webassembly `Rust`
   - Webassembly `Zig`
   - Webassembly `AssemblyScript`
-  - Shared memory
+  - Shared memory: 🎓 known
   - V8 binary serialization
